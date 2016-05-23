@@ -1,0 +1,6 @@
+C:\Users\tjgrs\projects\visualstudio\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.exe.config
+C:\Users\tjgrs\projects\visualstudio\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.exe
+C:\Users\tjgrs\projects\visualstudio\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.pdb
+C:\Users\tjgrs\projects\visualstudio\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.csprojResolveAssemblyReference.cache
+C:\Users\tjgrs\projects\visualstudio\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.exe
+C:\Users\tjgrs\projects\visualstudio\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.pdb
